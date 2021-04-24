@@ -1,0 +1,121 @@
+{
+  "episodes": [
+    {
+      "id": "react-context-API",      
+      "title": "React Context API",
+      "members": "Palamar",
+      "published_at": "2021-01-22 16:35:40",
+      "thumbnail": "https://linuxupdate.com.br/assets/images/thubnail-react-context-api-c8c8f7a433646beba7270b52ed4a0f81.png",
+      "description": "<p>Normalmente numa aplicação React, nós passamos informações através do componentes de cima para baixo, como um funil, através de props.</p><p>A gente passa a maior parte do tempo escrevendo código. Agora chegou o momento de falar sobre isso. Toda semana reunimos profissionais da tecnologia para discutir sobre tudo que circula na órbita da programação.</p>",
+      "file": {
+        "url": "https://cdn.discordapp.com/attachments/811800332006457356/835257914158874684/nya_online-audio-converter.com.m4a",
+        "type": "audio/x-m4a",
+        "duration": 3981
+      }
+    },
+    {
+      "id": "top-5-ferramentas ReactJS para aprimorar suas habilidades",      
+      "title": "Top 5 ferramentas ReactJS para aprimorar suas habilidades",
+      "members": "Palamar",
+      "published_at": "2021-01-15 13:00:00",
+      "thumbnail": "https://linuxupdate.com.br/assets/images/thubnail-top5-ferramentas-reactjs-4bf91dd8c7dbf29d07c6c6a0c9a67576.png",
+      "description": "<p>Aumente seu valor para os empregadores, aprendendo essas ferramentas principais para o desenvolvimento de aplicativos Web no React. O ReactJS é uma das muitas habilidades que você aprenderia a caminho de se tornar um desenvolvedor de sucesso na web. </p><p>Se você já está familiarizado com JavaScript e HTML, é uma próxima tecnologia natural para aprender. Se você ainda não conhece, encontrará o ReactJS como um ótimo lugar.</p>\n",
+      "file": {
+        "url": "",
+        "type": "audio/x-m4a",
+        "duration": 4237
+      }
+    },
+    {
+      "id": "10-comandos-do-linux-para-conhecer-o-sistema",      
+      "title": "10 comandos do Linux para conhecer o sistema",
+      "members": "Palamar",
+      "published_at": "2021-01-08 13:00:00",
+      "thumbnail": "https://linuxupdate.com.br/assets/images/thubnail-comandos-linux-2ad4f0eabdc03a035c68a2fb99293aa3.png",
+      "description": "<p>Existem 10 comandos do Linux para você conhecer o sistema e aumentar sua produtividade rapidamente.</p><p>10 comandos do Linux para conhecer o sistema Abra o aplicativo de terminal e comece a digitar esses comandos para conhecer seu desktop Linux</p>",
+      "file": {
+        "url": "",
+        "type": "audio/x-m4a",
+        "duration": 5506
+      }
+    },
+    {
+      "id": "configuração-do-ambiente-react",      
+      "title": "Configurações do ambiente - React",
+      "members": "Palamar",
+      "published_at": "2020-12-18 14:00:00",
+      "thumbnail": "https://linuxupdate.com.br/assets/images/thubnail-configura%C3%A7%C3%B5es-do-ambiente-react-0119f8e4fcbb87efa8b133a687afb455.png",
+      "description": "<p>Configuração do seu ambiente. Teremos três etapas principais na seção Instalação</p><p>- Node + NPM;</p><p> - Yarn;</p> <p>- Visual Studio Code e configurações.</p>",
+      "file": {
+        "url": "",
+        "type": "audio/x-m4a",
+        "duration": 5044
+      }
+    },
+    {
+      "id": "o-que-é-desktop-environment-no-linux",      
+      "title": "O que é Desktop Environment no Linux?",
+      "members": "Palamar",
+      "published_at": "2020-12-04 15:00:00",
+      "thumbnail": "https://linuxupdate.com.br/assets/images/thubnail-environment-no-linux-6e0265b67b2e616f62e779de2fe5ae8d.png",
+      "description": "<p>Um ambiente de área de trabalho é o pacote de componentes que fornece elementos de interface gráfica com o usuário (GUI) comuns, como ícones, barras de ferramentas,</p><p>papéis de parede e widgets de área de trabalho. Graças ao ambiente de desktop, você pode usar o Linux graficamente usando o mouse</p>",
+      "file": {
+        "url": "",
+        "type": "audio/x-m4a",
+        "duration": 4396
+      }
+    },
+    {
+      "id": "enviando-email-com-Nodejs",      
+      "title": "Enviando email com Node.JS",
+      "members": "Palamar",
+      "published_at": "2020-10-30 14:00:00",
+      "thumbnail": "https://linuxupdate.com.br/assets/images/thubnail-enviandoemailnodejs-fb0ac50d2ae80181caed6ab2da8a9d01.png",
+      "description": "<p>É notável que JavaScript vem se tornado uma linguagem famosa entre nós desenvolvedores. E um de seus usos tem sido com Node.js, um ambiente de execução Javascript server-side,</p><p>isto é, uma maneira de executar código escrito em javascript do lado do servidor. Neste artigo vamos aprender um exemplo básico de como podemos enviar emails utilizando o Node.JS</p>",
+      "file": {
+        "url": "",
+        "type": "audio/x-m4a",
+        "duration": 2715
+      }
+    },
+    {
+      "id": "ambiente-de-desenvolvimento-react-e-react-native-windows-com-WSL",      
+      "title": "Ambiente de desenvolvimento (react e react native) Windows com WSL",
+      "members": "Palamar",
+      "published_at": "2020-10-23 14:00:00",
+      "thumbnail": "https://linuxupdate.com.br/assets/images/thumbnail-ambiente-dev-react-wsl-92058b50d64e09a612581596d50cced4.png",
+      "description": "<p>Talvez existam outras formas mais simples e mais complexas de atingir o mesmo objetivo, mas esse artigo foi criado para resolver uma situação específica: </p><p>Trabalhar em ambiente Windows, sem uma máquina virtual do Linux, com acesso à todas as ferramentas necessárias para desenvolvimento Web e Mobile usando as Stacks: Node.js, React.js e React Native</p>",
+      "file": {
+        "url": "",
+        "type": "audio/x-m4a",
+        "duration": 2917
+      }
+    },      
+    {
+      "id": "wsl-Graphic-user-interface-GUI-com-kali-linux",      
+      "title": "WSL Graphic User Interface (GUI) com Kali Linux",
+      "members": "Palamar",
+      "published_at": "2020-05-04 14:49:35",
+      "thumbnail": "https://linuxupdate.com.br/assets/images/thubnail-wsl2-gui-9818bd759d8789ff3d24844e1cc85dd6.png",
+      "description": "<p>Kali para WSL vem com uma GUI incorporada, mas como acabei de perceber isso, achei que valeria a pena uma postagem rápida sobre.</p>",
+      "file": {
+        "url": "",
+        "type": "audio/x-m4a",
+        "duration": 1772
+      }
+    },
+    {
+      "id": "como-instalar-o-ubuntu",      
+      "title": "Como instalar o Ubuntu",
+      "members": "Palamar",
+      "published_at": "2020-04-09 20:00:00",
+      "thumbnail": "https://linuxupdate.com.br/assets/images/thubnail-instalar-ubuntu-3219674daf9b23750e8de5146db81973.png",
+      "description": "<p>Neste tutorial, darei a você um guia passo a passo para iniciantes sobre como instalar o Ubuntu</p><p>separadamente ou junto com qualquer outro sistema operacional (como o Windows 10) </p>",
+      "file": {
+        "url": "",
+        "type": "audio/x-m4a",
+        "duration": 1463
+      }
+    }
+  ]
+}
